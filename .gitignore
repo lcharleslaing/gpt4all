@@ -1,3 +1,7 @@
+# Model Files
+gpt4all-lora-quantized.bin
+gpt4all-lora-unfiltered-quantized.bin
+
 *.jsonl
 *tar.gz
 ckpts**
